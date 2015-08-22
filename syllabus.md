@@ -2,17 +2,18 @@
 
 ### [9/4] Class Intro, Models, Python basics
 Introduction to the class.
-Social Discussion:
+
+_Social Discussion_
 - What is a "model"?
 
-Technical Discussion:
+_Technical Discussion_
 - Data Science flow-chart
 - Why Python
 - Intro to Python:
     - data structures, types, control flow, functions, modules, files, pickling, ...
 - Amazon AWS Overview
 
-#### Assignment:
+#### Assignments:
 
 ##### _Technical_:
 - Intro to python on Code Academy
