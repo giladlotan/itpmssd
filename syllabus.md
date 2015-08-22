@@ -12,16 +12,18 @@ Technical Discussion:
     - data structures, types, control flow, functions, modules, files, pickling, ...
 - Amazon AWS Overview
 
-Assignment:
+#### Assignment:
 
-Technical:
+##### _Technical_:
 - Intro to python on Code Academy
 - Simple programming task
 - Set up your Amazon AWS machine
 
-Reading:
+##### _Reading_:
 - Erving Goffman, "The Presentation of Self in Everyday Life" (Introduction)
 - William Whyte, "City" (Ch 2: "The Social Life of the Street")
+
+---
 
 ### [9/11] Participant-Observation, DataFrames
 
