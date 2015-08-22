@@ -1,10 +1,11 @@
 # Making Sense of Social Data / Syllabus
 
-NYU - ITP | Fall 2015
-Gilad Lotan | danah boyd
-Fridays, 9am-12pm
+- NYU - ITP
+- Fall 2015
+- Gilad Lotan | danah boyd
+- Fridays, 9am-12pm
 
-Slack: itpmssd.slack.com
+- Slack: itpmssd.slack.com
 
 ---
 
