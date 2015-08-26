@@ -52,7 +52,7 @@ ssh -i "_YOUR_PEM_FILE_NAME.pem" -N -f -L localhost:8887:localhost:8887 ubuntu@Y
 
 Now you should be able to see the Jupyter Notebook web interface when you hit the following link on your browser:
 
-[http://127.0.0.1:8887]
+[http://localhost:8887]
 
 
 
@@ -60,4 +60,4 @@ Now you should be able to see the Jupyter Notebook web interface when you hit th
 
 
 [aws.amazon.com]:http://aws.amazon.com
-[http://127.0.0.1:8887]:http://127.0.0.1:8887/tree
+[http://localhost:8887]:http://localhost:8887/tree
