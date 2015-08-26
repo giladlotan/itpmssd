@@ -39,30 +39,16 @@ ssh -i ~/.ssh/YOUR_PEM_FILE_NAME.pem ubuntu@EC2_INSTANCE_PUBLIC_IP
 ```
 - you can get your public IP address information from the EC2 dashboard
 
+**Setup an SSH tunnel in order to view IPython notebooks locally**
 
-
-**Setup your IPython Notebook environment**
-
-Run the following command to start the ipython server on your AWS machine. Navigate to the right directory first to start it in the ideal folder:
-```sh
-cd /class/itpmssd
-ipython notebook --no-browser --port=8887 2>/dev/null &
-```
-
-In this case we're running the iPython Notebook on our remote machine, hence no need for browser locally. We choose port 8887 (opened it on our machine so that we can access it remotely). Finally, we pipe all output from the server to /dev/null (we don't want to see all the output as we make changes and run different iPython Notebook pages.
-
-In order to open up the interactive notebooks in your browser, you'll need to setup an SSH tunnel from your remote server (on the Amazon machine) to your computer.
+The iPython notebook helps us interactively develp python code. The iPython server is already running in our remote machine on port 8887. Now we need to create an SSH tunnel that lets us access the server from our local machine. The goal: run ipython notebook on our browsers. Run the following command (with your .pem file name and remote machine IP address) in a terminal window:
 
 ```sh
 ssh -i ~/.ssh/YOUR_PEM_FILE_NAME.pem -N -f -L localhost:8887:localhost:8887 ubuntu@EC2_INSTANCE_PUBLIC_IP
 ```
 
 Now you should be able to see the Jupyter Notebook web interface when you hit the following link on your browser:
-
 [http://localhost:8887]
-
-
-
 
 
 
