@@ -2,20 +2,22 @@
 
 Use the following instructions to setup your Amazon EC2 Machine. We'll spin up a machine using an image specifically configured for this class, so once up and running, we'll have minimal setup. For the purposes of this class (at least it's start), we'll be using Amazon's free tier, which is awesome. Small, and somewhat slow machine, but totally usable given our goal. The process involves multiple steps, so bear with me.
 
+#### Create an Amazon AWS account
+
 1. First thing we'll do is make an Amazon AWS account (if you have one already, skip this part). Go to [aws.amazon.com] and create an account. Even though you're choosing the basic (free) plan, you'll have to enter a credit card number. Verify your information (easiest via phone). Once you have a verified account, log into the AWS console.
 
 Here we"ll go over all the steps involved with setting up your machine
 
-### Create an Amazon AWS account
 
 
 
 
-### Spin up a machine
+#### Spin up a machine
 
 
 
-### SSH into the machine
+#### SSH into the machine
+
 
 
 
