@@ -19,11 +19,10 @@ ami-d776cfbc
 7. Add Rule -> Insert 8887 in the port field, and use the drop-down menu bar to choose the 'anywhere' option
 - What we're doing here is making sure that port 8887 is open on this machine. We'll use this port to access our iPython notebooks remotely.
 
-5. Launch Instance
-
-6. Create a new key-pair in order to SSH into the machine
-
-7. Name it and download, placing in a directory on your computer. I recommend making a ~.ssh/ directory and placing the .pem file there.
+8. Launch -> Create a new Key-Pair
+- We need a Key-Pair in order to SSH into the machine. This will come in the form of a .pem file that we will download from Amazon. It is very important to keep this file in a safe folder. We'll need to reference it every time we access our machine.
+9. Enter key pair name -> and download the .pem file
+10. I recommend making a ~./ssh directory and placing the .pem file there.
 ```sh
 cd ~
 mkdir .ssh
@@ -31,16 +30,14 @@ cd .ssh
 cp ~/Downloads/gilgul_itp.pem .
 ```
 
-8. You should be able to see the instance in your AWS dashboard (green)
+11. After a few minutes, you should be able to see the instance in your AWS dashboard (green)
 
 **SSH into the machine** 
 
-9. Right click on the instance in the dashboard, and follow instructions in order to ssh into the machine:
-
-- open a terminal window in your computer, and type the following:
+12. Right click on the instance in the dashboard. Take a look at the instructions for ssh-ing into this machine:
+13. Open a terminal window in your computer, and enter the following:
 ```sh
-cd ~./ssh
-ssh -i "YOUR_PEM_FILE_NAME.pem" ubuntu@EC2_INSTANCE_PUBLIC_IP
+ssh -i ~/.ssh/YOUR_PEM_FILE_NAME.pem ubuntu@EC2_INSTANCE_PUBLIC_IP
 ```
 - you can get your public IP address information from the EC2 dashboard
 
