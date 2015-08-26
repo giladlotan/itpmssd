@@ -35,7 +35,7 @@ cp ~/Downloads/gilgul_itp.pem .
 - open a terminal window in your computer, and type the following:
 ```sh
 cd ~./ssh
-ssh -i "_YOUR_PEM_FILE_NAME.pem" ubuntu@YOUR_IP_ADDRESS_HERE
+ssh -i "YOUR_PEM_FILE_NAME.pem" ubuntu@EC2_INSTANCE_PUBLIC_IP
 ```
 - you can get your public IP address information from the EC2 dashboard
 
@@ -53,7 +53,7 @@ In order to open up the interactive notebooks in your browser, you'll need to se
 
 ```sh
 cd ~./ssh
-ssh -i "_YOUR_PEM_FILE_NAME.pem" -N -f -L localhost:8887:localhost:8887 ubuntu@YOUR_IP_ADDRESS_HERE
+ssh -i "YOUR_PEM_FILE_NAME.pem" -N -f -L localhost:8887:localhost:8887 ubuntu@EC2_INSTANCE_PUBLIC_IP
 ```
 
 Now you should be able to see the Jupyter Notebook web interface when you hit the following link on your browser:
