@@ -1,6 +1,6 @@
-# #itpmssd - Making Sense of Social Data
+# Making Sense of Social Data
 
-#### Fall 2015, NYU - ITP 
+#### Fall 2015, NYU - ITP (#itpmssd)
 Gilad Lotan & danah boyd
 
 Data are created and collected all around us, trails left from interactions in social media, accessible through streams, feeds, APIs, and data-stores. These data are used to power a growing number of services, modeled not only off our own interactions but also interactions of our friends and larger network of connections. While well intended, and many times well functioning, the growing range of uses of systems that algorithmically score content means there are a growing number of unintended consequences and inherent biases. In order to untangle some of these issues, we’ll dive into the literature, while building our own algorithmically-driven data services.
