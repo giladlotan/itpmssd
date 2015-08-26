@@ -16,9 +16,15 @@ Use the following instructions to setup your Amazon EC2 Machine. We'll spin up a
 
 5. Launch Instance
 
-6. Create a key-pair in order to SSH into the machine
+6. Create a new key-pair in order to SSH into the machine
 
 7. Name it and download, placing in a directory on your computer. I recommend making a ~.ssh/ directory and placing the .pem file there.
+```sh
+cd ~
+mkdir .ssh
+cd .ssh
+cp ~/Downloads/gilgul_itp.pem .
+```
 
 8. You should be able to see the instance in your AWS dashboard (green)
 
@@ -31,7 +37,7 @@ Use the following instructions to setup your Amazon EC2 Machine. We'll spin up a
 cd ~./ssh
 ssh -i "_YOUR_PEM_FILE_NAME.pem" ubuntu@YOUR_IP_ADDRESS_HERE
 ```
-
+- you can get your public IP address information from the EC2 dashboard
 
 **Setup your IPython Notebook environment**
 
