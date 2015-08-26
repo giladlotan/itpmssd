@@ -1,26 +1,27 @@
-### [9/18] Networked Publics, APIs 
+### [9/25] Social Network Analysis, Networkx, Gephi
 
-_Social Discussion_
-- What is a networked public?
-    - Use assignment to discuss what happens in public.
-    - What happens online is a networked publice... [into Instagram]
+_Social Discussion_: social networks & social media
+- Different types of networks (behavioral, social, articulated)
+- The rise of social media
 
 _Technical Discussion_
-- Using APIs to access data (specifically from Instagram)
-    - Oauth and API tokens
-    - Python's requests library
-    - Instagram API
-    - Load Instagram data into pandas DataFrame
-    - Simple stats / distribution / plots
-
+- Graph properties help us understand relationship between items.
+    - goals: divide population into groups, find important people within a group, predict how information will spread, etc..
+    - concepts: connected components, triadic closure, small world networks, homophily, social ties, ...
+    - graph properties: density, cc, centrality, partitioning (modularity) 
+    - karate club: example graph + insight
+- Example: Instagram social network graphs, co-tag graphs, geo-graphs
 
 #### Assignments
 
 _Technical_
-- IG api to analyze given hashtag / location
+- use (either IG or other ****? twitter, disqus, fb, linkedIn, giphy...) APIs to examine a network digitally. (group project?)
+    - describe your data source
+    - what are the items, what relationships are you looking at
+    - what did you find?
+    - trending topics
 
 _Reading_
-- Introduction to Alain Degenne & Michel Forse, “Introducing Social Networks”  (??)
-- Scott Feld, “The Focused Organization of Social Ties"
-- Mark Granovetter, “The Strength of Weak Ties” 
-- For deeper background, check out David Easley and Jon Kleinberg’s “Networks, Crowds, and Markets” 
+- Adrian Chen, “The Agency"
+- Strongly recommend buying a copy of Robert Weiss, “Learning from Strangers” to scan (won’t photocopy well)
+- [Twitter bots] (http://www.hscott.net/twitter-contest-winning-as-a-service/)
