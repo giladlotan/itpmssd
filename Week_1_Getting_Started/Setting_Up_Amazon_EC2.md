@@ -41,6 +41,8 @@ ssh -i ~/.ssh/YOUR_PEM_FILE_NAME.pem ubuntu@EC2_INSTANCE_PUBLIC_IP
 ```
 - you can get your public IP address information from the EC2 dashboard
 
+
+
 **Setup your IPython Notebook environment**
 
 Run the following command to start the ipython server on your AWS machine. Navigate to the right directory first to start it in the ideal folder:
