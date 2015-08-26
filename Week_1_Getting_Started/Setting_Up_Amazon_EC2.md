@@ -12,7 +12,7 @@ Use the following instructions to setup your Amazon EC2 Machine. We'll spin up a
 
 3. Create an instance (from image)
 
-4. Top right-corner, change from Oregon to N. Virginia
+4. Top right-corner, change your region to **N. Virginia**
 
 5. Launch Instance
 
