@@ -13,7 +13,7 @@ First thing we'll do is make an Amazon AWS account (if you have one already, ski
 - Launch Instance (top blue button) -> Click on *Community AMIs* in the left sidebar
 - Search for the following AMI id:
 ```sh
-ami-d776cfbc
+ami-29d66e42
 ```
 - Select -> Review and Launch -> Edit Security Groups
 - Add Rule -> Insert 8887 in the port field, and use the drop-down menu bar to choose the 'anywhere' option
