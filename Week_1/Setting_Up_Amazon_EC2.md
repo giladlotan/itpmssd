@@ -17,7 +17,7 @@ ami-d776cfbc
 ```
 - Select -> Review and Launch -> Edit Security Groups
 - Add Rule -> Insert 8887 in the port field, and use the drop-down menu bar to choose the 'anywhere' option
-  - What we're doing here is making sure that port 8887 is open on this machine. We'll use this port to access our iPython notebooks remotely.
+(What we're doing here is making sure that port 8887 is open on this machine. We'll use this port to access our iPython notebooks remotely.)
 
 - Launch -> Create a new Key-Pair
   - We need a Key-Pair in order to SSH into the machine. This will come in the form of a .pem file that we will download from Amazon. It is very important to keep this file in a safe folder. We'll need to reference it every time we access our machine.
