@@ -35,14 +35,24 @@ ssh -i "_YOUR_PEM_FILE_NAME.pem" ubuntu@YOUR_IP_ADDRESS_HERE
 
 **Setup your IPython Notebook environment**
 
-Run the following command to start the ipython server on your AWS machine:
+Run the following command to start the ipython server on your AWS machine. Navigate to the right directory first to start it in the ideal folder:
 ```sh
+cd /class/itpmssd
 ipython notebook --no-browser --port=8887 2>/dev/null &
 ```
 
 In this case we're running the iPython Notebook on our remote machine, hence no need for browser locally. We choose port 8887 (opened it on our machine so that we can access it remotely). Finally, we pipe all output from the server to /dev/null (we don't want to see all the output as we make changes and run different iPython Notebook pages.
 
+In order to open up the interactive notebooks in your browser, you'll need to setup an SSH tunnel from your remote server (on the Amazon machine) to your computer.
 
+```sh
+cd ~./ssh
+ssh -i "_YOUR_PEM_FILE_NAME.pem" -N -f -L localhost:8887:localhost:8887 ubuntu@YOUR_IP_ADDRESS_HERE
+```
+
+Now you should be able to see the Jupyter Notebook web interface when you hit the following link on your browser:
+
+[http://127.0.0.1:8887]
 
 
 
@@ -50,3 +60,4 @@ In this case we're running the iPython Notebook on our remote machine, hence no 
 
 
 [aws.amazon.com]:http://aws.amazon.com
+[http://127.0.0.1:8887]:http://127.0.0.1:8887/tree
