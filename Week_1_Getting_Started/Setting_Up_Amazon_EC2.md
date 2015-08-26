@@ -8,13 +8,14 @@ Use the following instructions to setup your Amazon EC2 Machine. We'll spin up a
 
 **Spin up a machine**
 
-2. Click on the EC2 Dashboard -> Launch Instance -> Community AMIs
-3. Search for the following AMI id:
+2. Click on the EC2 Dashboard 
+3. Top right-corner, change your region to **N. Virginia**
+4. Launch Instance (top blue button) -> Community AMIs
+5. Search for the following AMI id:
 ```sh
 ami-d776cfbc
 ```
 
-4. Top right-corner, change your region to **N. Virginia**
 
 5. Launch Instance
 
