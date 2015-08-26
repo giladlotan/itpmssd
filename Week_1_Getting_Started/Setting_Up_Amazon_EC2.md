@@ -4,40 +4,40 @@ Use the following instructions to setup your Amazon EC2 Machine. We'll spin up a
 
 **Create an Amazon AWS account**
 
-1. First thing we'll do is make an Amazon AWS account (if you have one already, skip this part). Go to [aws.amazon.com] and create an account. Even though you're choosing the basic (free) plan, you'll have to enter a credit card number. Verify your information (easiest via phone). Once you have a verified account, log into the AWS console.
+First thing we'll do is make an Amazon AWS account (if you have one already, skip this part). Go to [aws.amazon.com] and create an account. Even though you're choosing the basic (free) plan, you'll have to enter a credit card number. Verify your information (easiest via phone). Once you have a verified account, log into the AWS console.
 
 **Spin up a machine**
 
-2. Click on the EC2 Dashboard 
-3. Top right-corner, change your region to **N. Virginia**
-4. Launch Instance (top blue button) -> Click on *Community AMIs* in the left sidebar
-5. Search for the following AMI id:
+- Go to the EC2 Dashboard 
+- Top right-corner, change your region to **N. Virginia**
+- Launch Instance (top blue button) -> Click on *Community AMIs* in the left sidebar
+- Search for the following AMI id:
 ```sh
 ami-d776cfbc
 ```
-6. Select -> Review and Launch -> Edit Security Groups
-7. Add Rule -> Insert 8887 in the port field, and use the drop-down menu bar to choose the 'anywhere' option
-- What we're doing here is making sure that port 8887 is open on this machine. We'll use this port to access our iPython notebooks remotely.
+- Select -> Review and Launch -> Edit Security Groups
+- Add Rule -> Insert 8887 in the port field, and use the drop-down menu bar to choose the 'anywhere' option
+  - What we're doing here is making sure that port 8887 is open on this machine. We'll use this port to access our iPython notebooks remotely.
 
-8. Launch -> Create a new Key-Pair
-- We need a Key-Pair in order to SSH into the machine. This will come in the form of a .pem file that we will download from Amazon. It is very important to keep this file in a safe folder. We'll need to reference it every time we access our machine.
-9. Enter key pair name -> and download the .pem file
-10. I recommend making a ~./ssh directory and placing the .pem file there.
+- Launch -> Create a new Key-Pair
+  - We need a Key-Pair in order to SSH into the machine. This will come in the form of a .pem file that we will download from Amazon. It is very important to keep this file in a safe folder. We'll need to reference it every time we access our machine.
+- Enter key pair name -> and download the .pem file
+- I recommend making a ~./ssh directory and placing the .pem file there.
 ```sh
 mkdir ~/.ssh
 cp ~/Downloads/gilgul_itp.pem ~/.ssh
 ```
 
-11. After a few minutes, you should be able to see the instance in your AWS dashboard (green)
+After a few minutes, you should be able to see the instance in your AWS dashboard (green)
 
 **SSH into the machine** 
 
-12. Right click on the instance in the dashboard. Take a look at the instructions for ssh-ing into this machine:
-13. Open a terminal window in your computer, and enter the following:
+Right click on the instance in the dashboard. Take a look at the instructions for ssh-ing into this machine. Open a terminal window in your computer, and enter the following:
+
 ```sh
 ssh -i ~/.ssh/YOUR_PEM_FILE_NAME.pem ubuntu@EC2_INSTANCE_PUBLIC_IP
 ```
-- you can get your public IP address information from the EC2 dashboard
+you can get your public IP address information from the EC2 dashboard
 
 **Setup an SSH tunnel in order to view IPython notebooks locally**
 
