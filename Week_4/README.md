@@ -24,4 +24,4 @@ _Technical_
 _Reading_
 - Adrian Chen, “The Agency"
 - Strongly recommend buying a copy of Robert Weiss, “Learning from Strangers” to scan (won’t photocopy well)
-- [Twitter bots] (http://www.hscott.net/twitter-contest-winning-as-a-service/)
+- [Using Twitter Bots to Win Contests] (http://www.hscott.net/twitter-contest-winning-as-a-service/)
