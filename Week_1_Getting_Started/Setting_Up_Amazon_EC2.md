@@ -24,10 +24,8 @@ ami-d776cfbc
 9. Enter key pair name -> and download the .pem file
 10. I recommend making a ~./ssh directory and placing the .pem file there.
 ```sh
-cd ~
-mkdir .ssh
-cd .ssh
-cp ~/Downloads/gilgul_itp.pem .
+mkdir ~/.ssh
+cp ~/Downloads/gilgul_itp.pem ~/.ssh
 ```
 
 11. After a few minutes, you should be able to see the instance in your AWS dashboard (green)
