@@ -13,19 +13,19 @@ Data are created and collected all around us, trails left from interactions in s
 In this class we will explore various computational and social science approaches to understanding networked users. We’ll collect data by talking to people, as well as use Python scripts to access data from APIs such as Twitter and Instagram. We’ll learn how to make sense of these different data, touching topics such as qualitative interviewing, ethnographic observation, content analysis, natural language processing, content classification, authority ranking, and clustering. We’ll also be using a number of open source tools that help us make sense of networks, including Gephi and Python’s networkx library. And we'll be diving into literature from various fields - including sociology and media studies - to make sense of social data that we gather along the way.
 
 ---
-[9/4]   1. Class Intro: Models, Python, Amazon AWS
-[9/11]  2. Participant-Observation, DataFrames
-[9/18]  3. Networked Publics, Using APIs
-[9/25]  4. Social Network Analysis, Networkx, Gephi
-[10/2]  5. Interviews, Bots, Intro to Text Analysis
-[10/9]  6. Text Analysis, Bots (stage 2)
-[10/16] ---> NO CLASS
-[10/23] 7. Prediction
-[10/30] 8. Data Visualization, Slack Bot Integrations
-[11/6]  ---> NO CLASS
-[11/13] 9. Bot Assignment Due
-[11/20] 10. Classification, or Modern Day Magic
-[11/27] ---> NO CLASS
-[12/4]  11. Social Consequences, Unintended
-[12/11] 12. Present Final Projects
+- [9/4]   1. Class Intro: Models, Python, Amazon AWS
+- [9/11]  2. Participant-Observation, DataFrames
+- [9/18]  3. Networked Publics, Using APIs
+- [9/25]  4. Social Network Analysis, Networkx, Gephi
+- [10/2]  5. Interviews, Bots, Intro to Text Analysis
+- [10/9]  6. Text Analysis, Bots (stage 2)
+- [10/16] ---> NO CLASS
+- [10/23] 7. Prediction
+- [10/30] 8. Data Visualization, Slack Bot Integrations
+- [11/6]  ---> NO CLASS
+- [11/13] 9. Bot Assignment Due
+- [11/20] 10. Classification, or Modern Day Magic
+- [11/27] ---> NO CLASS
+- [12/4]  11. Social Consequences, Unintended
+- [12/11] 12. Present Final Projects
 
