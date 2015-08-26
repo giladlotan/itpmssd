@@ -1,9 +1,8 @@
 ### [9/18] Networked Publics, APIs
 
-_Social Discussion_
-- What is a networked public?
-    - Use assignment to discuss what happens in public.
-    - What happens online is a networkd public... [into Instagram]
+_Social Discussion_ : what is a networked public?
+- Use assignment to discuss what happens in public.
+- What happens online is a networkd public... [into Instagram]
 
 _Technical Discussion_
 - This week we’ll be using API’s to access data from social media. Specifically, we’ll look at Instagram data, and ways in which we can analyze publicly shared posts.
