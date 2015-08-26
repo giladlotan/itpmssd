@@ -22,7 +22,7 @@ Use the following instructions to setup your Amazon EC2 Machine. We'll spin up a
 
 8. You should be able to see the instance in your AWS dashboard (green)
 
-** SSH into the machine ** 
+**SSH into the machine** 
 
 9. Right click on the instance in the dashboard, and follow instructions in order to ssh into the machine:
 
