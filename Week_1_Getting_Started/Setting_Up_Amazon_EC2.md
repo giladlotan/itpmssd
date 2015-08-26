@@ -6,7 +6,7 @@ Use the following instructions to setup your Amazon EC2 Machine. We'll spin up a
 
 1. First thing we'll do is make an Amazon AWS account (if you have one already, skip this part). Go to [aws.amazon.com] and create an account. Even though you're choosing the basic (free) plan, you'll have to enter a credit card number. Verify your information (easiest via phone). Once you have a verified account, log into the AWS console.
 
-** Spin up a machine **
+**Spin up a machine**
 
 2. Click on the EC2
 
@@ -33,7 +33,7 @@ ssh -i "_YOUR_PEM_FILE_NAME.pem" ubuntu@YOUR_IP_ADDRESS_HERE
 ```
 
 
-** Setup your IPython Notebook environment**
+**Setup your IPython Notebook environment**
 
 Run the following command to start the ipython server on your AWS machine:
 ```sh
