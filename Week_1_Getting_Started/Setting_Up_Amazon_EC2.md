@@ -54,8 +54,7 @@ In this case we're running the iPython Notebook on our remote machine, hence no 
 In order to open up the interactive notebooks in your browser, you'll need to setup an SSH tunnel from your remote server (on the Amazon machine) to your computer.
 
 ```sh
-cd ~./ssh
-ssh -i "YOUR_PEM_FILE_NAME.pem" -N -f -L localhost:8887:localhost:8887 ubuntu@EC2_INSTANCE_PUBLIC_IP
+ssh -i ~/.ssh/YOUR_PEM_FILE_NAME.pem -N -f -L localhost:8887:localhost:8887 ubuntu@EC2_INSTANCE_PUBLIC_IP
 ```
 
 Now you should be able to see the Jupyter Notebook web interface when you hit the following link on your browser:
