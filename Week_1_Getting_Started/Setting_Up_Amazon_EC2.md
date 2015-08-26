@@ -10,12 +10,14 @@ Use the following instructions to setup your Amazon EC2 Machine. We'll spin up a
 
 2. Click on the EC2 Dashboard 
 3. Top right-corner, change your region to **N. Virginia**
-4. Launch Instance (top blue button) -> Community AMIs
+4. Launch Instance (top blue button) -> Click on *Community AMIs* in the left sidebar
 5. Search for the following AMI id:
 ```sh
 ami-d776cfbc
 ```
-
+6. Select -> Review and Launch -> Edit Security Groups
+7. Add Rule -> Insert 8887 in the port field, and use the drop-down menu bar to choose the 'anywhere' option
+- What we're doing here is making sure that port 8887 is open on this machine. We'll use this port to access our iPython notebooks remotely.
 
 5. Launch Instance
 
