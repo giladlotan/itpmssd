@@ -4,7 +4,8 @@ _Social Discussion_
 - What is a "model"?
 
 _Technical Discussion_
-- Data Science flow-chart
+- General overview of Data Science: problems, methods.
+    - Flow Chart: what we'll cover this semester
 - Why Python
     - Intro: data structures, types, control flow, functions, modules, files, pickling.
 - Setting up our Amazon AWS box
