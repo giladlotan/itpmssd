@@ -8,7 +8,7 @@ _Social Discussion_
 _Technical Discussion_
 - Load data from a file
 - Intro to data analysis using pandas DataFrame
-- Plot data
+- Plotting our data
 - Endpoint on our AWS machine (hello world), using Flask
 
 #### Assignments
