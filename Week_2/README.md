@@ -6,7 +6,7 @@ _Social Discussion_
     - The practice of field notes
 
 _Technical Discussion_
-- Load data from a file
+- Load data from a CSV file
 - Intro to data analysis using pandas DataFrame
 - Plotting our data
 - Endpoint on our AWS machine (hello world), using Flask
