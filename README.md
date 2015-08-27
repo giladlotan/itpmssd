@@ -3,8 +3,6 @@
 - NYU - ITP
 - Fall 2015
 - Gilad Lotan | danah boyd
-- Fridays, 9am-12pm
-- Slack: itpmssd.slack.com
 
 ---
 ### Description
@@ -30,3 +28,16 @@ In this class we will explore various computational and social science approache
 - [11/27] ---> NO CLASS
 - [12/4]  11. Social Consequences, Unintended
 - [12/11] 12. Present Final Projects
+
+---
+### Logistics
+
+- Fridays, 9am-12pm
+- Slack: itpmssd.slack.com
+  - 
+- Assignments:
+  - _Reading_
+    - 
+  - _Coding_
+    - There will be a dropbox folder made available for you to submit your programming assignments
+    - 
