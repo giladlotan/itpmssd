@@ -34,7 +34,8 @@ In this class we will explore various computational and social science approache
 
 - Fridays, 9am-12pm
 - Slack: itpmssd.slack.com
-  - 
+  - If you haven't already signed up to our Slack group, please do so here - [itpmssd.slack.com] (https://itpmssd.slack.com).
+  - We'll be using Slack for class-related communications: questions, thoughts, answers. We'll also use it to share interesting and relevant articles we find. Most importantly, we'll be relying on Slack to create and test our Bot creations. (More on that l8trz)
 - Assignments:
   - _Reading_
     - 
