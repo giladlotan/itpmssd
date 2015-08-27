@@ -34,4 +34,6 @@
     - We'll use slack for class-related communications: questions, thoughts, answers. We'll also use it to share content we find - links, interesting articles, etc. 
     - Most importantly, we'll use Slack this semester to build a bunch of Bots! (more on that l8trz)
 
-
+- Redis:
+    - On your Amazon instance, there should be a running Redis Server.
+    - This will come in handy later, when we need to save certain data.
