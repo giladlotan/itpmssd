@@ -65,7 +65,7 @@ ssh -i ~/.ssh/gilad_itp.pem -N -f -L localhost:8887:localhost:8887 ubuntu@PUBLIC
 Now you should be able to see the Jupyter Notebook web interface when you hit the following link on your browser:
 [http://localhost:8887]
 
-Finally, feel free to go over [these notes] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Technical_Setup.md) about our class technical setup.
+Finally, make sure to go over [these notes] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Technical_Setup.md) about our class technical setup.
 
 ---
 
