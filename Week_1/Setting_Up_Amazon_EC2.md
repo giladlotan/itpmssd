@@ -75,7 +75,7 @@ ps -aux | grep ipython
 ```
 If one of the resulting prompts looks something like this:
 ```
-sudo /usr/local/bin/ipython notebook --notebook-dir=/class/itpmssd --no-browser --port=8887
+sudo /usr/local/bin/ipython notebook --notebook-dir=/class --no-browser --port=8887
 ```
 The server should be running. If you don't see this line, try restarting the Amazon machine, grabbing its new IP address, and trying again. Otherwise, send a message [on our Slack] (https://itpmssd.slack.com). Gilad (or anyone else from class) can help debug.
 
