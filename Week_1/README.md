@@ -7,6 +7,7 @@ _Course Overview_
 _Technical Discussion_
 - Data Science flow-chart
 - Amazon AWS Setup
+    - Go over these [notes about our technical setup] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Technical_Setup.md)
 - Why Python?
     - Go over data structures, types, control flow, functions, modules, files, pickling, ...
 
