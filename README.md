@@ -15,7 +15,7 @@ In this class we will explore various computational and social science approache
 
 - [9/4]   1. Class Intro: Models, Python, Amazon AWS
 - [9/11]  2. Participant-Observation, Loading data into pandas DataFrames
-- [9/18]  3. Networked Publics, Using APIs
+- [9/18]  3. Networked Publics, Instagram/Twitter APIs, moar Time Series Analysis
 - [9/25]  4. Social Network Analysis, Networkx, Gephi
 - [10/2]  5. Interviews, Bots, Text Analysis
 - [10/9]  6. Recommender Systems, Similarity Measures, Collaborative Filtering
