@@ -37,6 +37,6 @@ In this class we will explore various computational and social science approache
   - 
 - Assignments:
   - _Reading_
-    - sdf
+    - 
   - _Coding_
     - There will be a dropbox folder made available for you to submit your programming assignments
