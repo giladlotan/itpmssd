@@ -1,6 +1,6 @@
 # Notes on Technical Setup for Class
 
-- If you haven't yet created your Amazon instance, [DO THAT FIRST]. (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Setting_Up_Amazon_EC2.md)
+- If you haven't yet created your Amazon instance, [DO THAT FIRST] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Setting_Up_Amazon_EC2.md).
 
 - Our remote machine:
     - Amazon's Web Services (AWS) includes a wide array of useful cloud computing services - including computation and storage.
