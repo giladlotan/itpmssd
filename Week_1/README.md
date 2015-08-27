@@ -1,7 +1,8 @@
 ### [9/4] Class Intro, Python basics, Amazon AWS
 
-_Social Discussion_
-- What is a "model"? 
+_Course Overview_
+- What are we trying to achieve?
+- What does it mean to "make sense" of social data?
 
 _Technical Discussion_
 - Data Science flow-chart
