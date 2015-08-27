@@ -31,3 +31,4 @@ In this class we will explore various computational and social science approache
 - [12/4]  11. Social Consequences, Unintended
 - [12/11] 12. Present Final Projects
 
+test
