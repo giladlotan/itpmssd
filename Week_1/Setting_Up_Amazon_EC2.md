@@ -65,7 +65,17 @@ ssh -i ~/.ssh/gilad_itp.pem -N -f -L localhost:8887:localhost:8887 ubuntu@PUBLIC
 Now you should be able to see the Jupyter Notebook web interface when you hit the following link on your browser:
 [http://localhost:8887]
 
+---
 
+If this doesn't work, your iPython Notebook server may not be running correctly on your EC2 machine. In the terminal window, while SSH'd into your remote machine, try the following:
+```sh
+ps -aux | grep ipython
+```
+If one of the resulting prompts looks something like this:
+```
+sudo /usr/local/bin/ipython notebook --notebook-dir=/class/itpmssd --no-browser --port=8887
+```
+The server should be running. If you don't see this line, try restarting the Amazon machine, grabbing its new IP address, and trying again. Otherwise, Gilad can help debug.
 
 [aws.amazon.com]:http://aws.amazon.com
 [http://localhost:8887]:http://localhost:8887/tree
