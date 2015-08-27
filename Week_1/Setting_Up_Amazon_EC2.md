@@ -8,36 +8,43 @@ First thing we'll do is make an Amazon AWS account (if you have one already, ski
 
 **Spin up a machine**
 
-- Go to the EC2 Dashboard 
-- Top right-corner, change your region to **N. Virginia**
-- Launch Instance (top blue button) -> Click on *Community AMIs* in the left sidebar
+- Click on EC2 Virtual Servers in the Cloud (upper left)
+- Top right-corner drop down, change your region from **Oregon** to **US East (N. Virginia)**
+- Launch Instance (big blue button) -> Click on *Community AMIs* in the left sidebar
 - Search for the following AMI id:
 ```sh
 ami-29d66e42
 ```
 - Select -> Review and Launch -> Edit Security Groups
-- Add Rule -> Insert 8887 in the port field, and use the drop-down menu bar to choose the 'anywhere' option
+- Add Rule -> In the new section that comes up, insert 8887 under "Port Range" , and use the drop-down menu bar under "Source" to choose the 'anywhere' option. Leave "Type" as Custom TCP Rule.
 (What we're doing here is making sure that port 8887 is open on this machine. We'll use this port to access our iPython notebooks remotely.)
 
-- Launch -> Create a new Key-Pair
+- Click Review and Launch
+- Click Launch -> Create a new Key-Pair
   - We need a Key-Pair in order to SSH into the machine. This will come in the form of a .pem file that we will download from Amazon. It is very important to keep this file in a safe folder. We'll need to reference it every time we access our machine.
-- Enter key pair name -> and download the .pem file
-- I recommend making a ~./ssh directory and placing the .pem file there.
+- Enter key pair name (mine is "gilad_itp") -> and download Key Pair
+- Open up your Terminal window and create an ~./ssh directory. Move the .pem file there.
 ```sh
 mkdir ~/.ssh
-cp ~/Downloads/gilgul_itp.pem ~/.ssh
+mv ~/Downloads/gilgul_itp.pem ~/.ssh
 ```
-
-After a few minutes, you should be able to see the instance in your AWS dashboard (green)
+- Go back to your browser, and click 'Launch Instance'
+- Click on the cube in the upper left corner -> then click on EC2 just below it
+- Click on 'Running Instances' and you should be able to see the status of your newly created machine. (Hopefully it is GREEN! -> if not... you're fucked...)
 
 **SSH into the machine** 
 
-Right click on the instance in the dashboard. Take a look at the instructions for ssh-ing into this machine. Open a terminal window in your computer, and enter the following:
+- Right click on the instance in the dashboard -> click 'Connect'
+- Take a look at the instructions for ssh-ing into this machine
+  - First you have to run the following on your pem file: (granting permission)
+```sh
+chmod 400 ~/.ssh/gilad_itp.pem
+```
+  - Grab the 'Public IP' address that Amazon provides you with, and insert it into the command below (instead of 'PUBLIC_IP_ADDRESS' insert yours -> something like '52.22.14.26'):
 
 ```sh
-ssh -i ~/.ssh/YOUR_PEM_FILE_NAME.pem ubuntu@EC2_INSTANCE_PUBLIC_IP
+ssh -i ~/.ssh/gilad.pem ubuntu@PUBLIC_IP_ADDRESS
 ```
-you can get your public IP address information from the EC2 dashboard
 
 **Setup an SSH tunnel in order to view IPython notebooks locally**
 
