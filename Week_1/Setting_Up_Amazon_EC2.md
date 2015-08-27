@@ -43,7 +43,7 @@ chmod 400 ~/.ssh/gilad_itp.pem
   - Grab the 'Public IP' address that Amazon provides you with, and insert it into the command below (instead of 'PUBLIC_IP_ADDRESS' insert yours -> something like '52.22.14.26'):
 
 ```sh
-ssh -i ~/.ssh/gilad.pem ubuntu@PUBLIC_IP_ADDRESS
+ssh -i ~/.ssh/gilad_itp.pem ubuntu@PUBLIC_IP_ADDRESS
 ```
 
 **Setup an SSH tunnel in order to view IPython notebooks locally**
@@ -51,7 +51,7 @@ ssh -i ~/.ssh/gilad.pem ubuntu@PUBLIC_IP_ADDRESS
 The iPython notebook helps us interactively develp python code. The iPython server is already running in our remote machine on port 8887. Now we need to create an SSH tunnel that lets us access the server from our local machine. The goal: run ipython notebook on our browsers. Run the following command (with your .pem file name and remote machine IP address) in a terminal window:
 
 ```sh
-ssh -i ~/.ssh/YOUR_PEM_FILE_NAME.pem -N -f -L localhost:8887:localhost:8887 ubuntu@EC2_INSTANCE_PUBLIC_IP
+ssh -i ~/.ssh/gilad_itp.pem -N -f -L localhost:8887:localhost:8887 ubuntu@PUBLIC_IP_ADDRESS
 ```
 
 Now you should be able to see the Jupyter Notebook web interface when you hit the following link on your browser:
