@@ -1,7 +1,7 @@
 ### [9/4] Class Intro, Python basics, Amazon AWS
 
 _Social Discussion_
-- What is a "model"?
+- What is a "model"? Helloooo
 
 _Technical Discussion_
 - Data Science flow-chart
