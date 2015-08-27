@@ -45,6 +45,13 @@ chmod 400 ~/.ssh/gilad_itp.pem
 ```sh
 ssh -i ~/.ssh/gilad_itp.pem ubuntu@PUBLIC_IP_ADDRESS
 ```
+- run the following commands in the terminal while SSH'd into your new machine:
+```sh
+cd /class
+git init
+git clone https://github.com/giladlotan/itpmssd
+```
+- this should result in a folder named 'itpmssd' that appears
 
 **Setup an SSH tunnel in order to view IPython notebooks locally**
 
