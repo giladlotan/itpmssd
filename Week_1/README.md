@@ -6,16 +6,17 @@ _Course Overview_
 
 _Technical Discussion_
 - Data Science flow-chart
-- Why Python
-    - data structures, types, control flow, functions, modules, files, pickling, ...
 - Amazon AWS Setup
+- Why Python?
+    - Go over data structures, types, control flow, functions, modules, files, pickling, ...
 
 #### Assignments
 
 _Technical_
-- Intro to python on [Code Academy] (https://www.codecademy.com/en/tracks/python)
-- Set up your [Amazon AWS machine] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Setting_Up_Amazon_EC2.md)
-- Go over [Intro to Python Notebook] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Introduction_to_python.ipynb)
+- For those of you who haven't already, make sure your [Amazon AWS machine] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Setting_Up_Amazon_EC2.md) is set up.
+- Spend some more time with the [Intro to Python Notebook] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Introduction_to_python.ipynb) which we went over in class. 
+- [Code Academy] (https://www.codecademy.com/en/tracks/python) is a great place to learn more about the Python programming language. If you have spare time, complete some of the tutorials on the site.
+- Complete ***This*** Programming Task. 
 
 _Reading_
 - Erving Goffman, "The Presentation of Self in Everyday Life" (Introduction)
