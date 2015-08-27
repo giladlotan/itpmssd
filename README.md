@@ -40,4 +40,4 @@ In this class we will explore various computational and social science approache
   - _Reading_
     - 
   - _Coding_
-    - There will be a dropbox folder made available for you to submit your programming assignments
+    - We'll use a shared dropbox folder for coding homework assignments. 
