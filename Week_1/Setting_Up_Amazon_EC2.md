@@ -51,7 +51,7 @@ cd /class
 git init
 git clone https://github.com/giladlotan/itpmssd
 ```
-- this should pull in a folder named 'itpmssd'
+- this should pull in a folder named 'itpmssd' (you can verify by running the command: 'ls -l')
 
 **Setup an SSH tunnel in order to view IPython notebooks locally**
 
