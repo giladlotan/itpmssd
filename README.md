@@ -14,11 +14,11 @@ In this class we will explore various computational and social science approache
 ### Schedule
 
 - [9/4]   1. Class Intro: Models, Python, Amazon AWS
-- [9/11]  2. Participant-Observation, DataFrames
+- [9/11]  2. Participant-Observation, Loading data into pandas DataFrames
 - [9/18]  3. Networked Publics, Using APIs
 - [9/25]  4. Social Network Analysis, Networkx, Gephi
-- [10/2]  5. Interviews, Bots, Intro to Text Analysis
-- [10/9]  6. Text Analysis, Bots (stage 2)
+- [10/2]  5. Interviews, Bots, Text Analysis
+- [10/9]  6. Recommender Systems, Similarity Measures, Collaborative Filtering
 - [10/16] ---> NO CLASS
 - [10/23] 7. Prediction
 - [10/30] 8. Data Visualization, Slack Bot Integrations
