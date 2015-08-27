@@ -48,6 +48,7 @@ ssh -i ~/.ssh/gilad_itp.pem ubuntu@PUBLIC_IP_ADDRESS
 - run the following commands in the terminal while SSH'd into your new machine:
 ```sh
 cd /class
+sudo bash
 git init
 git clone https://github.com/giladlotan/itpmssd
 ```
