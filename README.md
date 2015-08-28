@@ -32,12 +32,21 @@ In this class we will explore various computational and social science approache
 ---
 ### Logistics
 
-- Fridays, 9am-12pm
+- Class: Fridays, 9am-12pm
+- Office Hours: by request 30 minutes before or afer class or via Skype
 - Slack: itpmssd.slack.com
   - If you haven't already signed up to our Slack group, please do so here - [itpmssd.slack.com] (https://itpmssd.slack.com).
   - We'll be using Slack for class-related communications: questions, thoughts, answers. We'll also use it to share interesting and relevant articles we find. Most importantly, we'll be relying on Slack to create and test our Bot creations. (More on that l8trz)
+  - Private communications (e.g., class absences, personal concerns) should be communicated through email.
 - Assignments:
-  - _Reading_
-    - 
+  - _Reading_: 
+    - Each week, there will be some form of reading. We are keeping the reading short and accessible so please do it. 
+    - The readings are available via Dropbox or through an online link, as indicated in the assignment section of each week.  
   - _Coding_
-    - We'll use a shared dropbox folder for coding homework assignments. 
+    - We'll use a shared dropbox folder for submitting coding homework assignments. 
+- Evaluation: 
+  - On-time attendance and class participation: 25%
+  - Assignments: 25%
+  - Mid-term Bot Project: 25%
+  - Final Project: 25%
+  - _Note: Showing up more than 10 minutes late without prior notice is an unexcused absence. More than 2 unexcused absences results in automatic failure._
