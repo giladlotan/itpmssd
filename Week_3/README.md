@@ -1,5 +1,8 @@
 ### [9/18] Networked Publics, APIs
 
+_Assignment Discussion_: 
+- Each group will present their "seeing" assignment for 5 minutes, followed by a brief discussion by the class.
+
 _Social Discussion_ : what is a networked public?
 - Use assignment to discuss what happens in public.
 - What happens online is a networkd public... [into Instagram]
