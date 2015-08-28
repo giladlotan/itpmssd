@@ -1,12 +1,12 @@
 ### [9/11] Participant-Observation, DataFrames
 
 _Social Discussion_
-- Learning to See Ethnographically
-    - Observation as a method
-    - The practice of field notes
 - Discussions based on homework reading:
     - Erving Goffman, "The Presentation of Self in Everyday Life" (Ch 1: Performances) (in Dropbox)
     - William Whyte, "City" (Ch 2: "The Social Life of the Street") (in Dropbox)
+- Learning to See Ethnographically
+    - Observation as a method
+    - The practice of field notes
 
 _Technical Discussion_
 - Load data from a CSV file
