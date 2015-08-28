@@ -17,7 +17,7 @@ _Technical_
 - Spend some more time with the [Intro to Python Notebook] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Introduction_to_python.ipynb) which we went over in class. 
 - [Code Academy] (https://www.codecademy.com/en/tracks/python) is a great place to learn more about the Python programming language. If you have spare time, complete some of the tutorials on the site.
 
-_Reading_
-- Erving Goffman, "The Presentation of Self in Everyday Life" (Introduction)
-- William Whyte, "City" (Ch 2: "The Social Life of the Street")
+_Readings for next week:_
+- Erving Goffman, "The Presentation of Self in Everyday Life" (Ch 1: Performances) (in Dropbox)
+- William Whyte, "City" (Ch 2: "The Social Life of the Street") (in Dropbox)
 
