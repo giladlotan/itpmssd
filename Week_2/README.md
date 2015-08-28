@@ -7,6 +7,7 @@ _Social Discussion_
 - Learning to See Ethnographically
     - Observation as a method
     - The practice of field notes
+    - Interpretation
 
 _Technical Discussion_
 - Load data from a CSV file
