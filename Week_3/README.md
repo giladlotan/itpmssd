@@ -21,7 +21,7 @@ _Technical_
 - use Instagram’s API to run an analysis (TBD) on hashtag, or geo-location (slack web-hook?)
 
 _Readings for next week_
-- Introduction to Alain Degenne & Michel Forse, “Introducing Social Networks”  (??)
-- Scott Feld, “The Focused Organization of Social Ties"
-- Mark Granovetter, “The Strength of Weak Ties” 
-- For deeper background, check out David Easley and Jon Kleinberg’s “Networks, Crowds, and Markets” 
+- Introduction to Alain Degenne & Michel Forse, “Introducing Social Networks”  (Dropbox)
+- Scott Feld, “The Focused Organization of Social Ties" (Dropbox)
+- Mark Granovetter, “The Strength of Weak Ties” (Dropbox)
+- For deeper background, check out David Easley and Jon Kleinberg’s “Networks, Crowds, and Markets” (book)
