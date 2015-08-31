@@ -43,6 +43,7 @@ In this class we will explore various computational and social science approache
     - Each week, there will be some form of reading. We are keeping the reading short and accessible so please do it. 
     - The required readings are available via Dropbox or through an online link, as indicated in the assignment section of each week.  
     - We strongly recommend acquiring a copy of ["Learning from Strangers"] (http://www.amazon.com/Learning-Strangers-Qualitative-Interview-Studies/dp/0684823128/)
+    - We recommend acquiring a copy of ["Data Science from Scratch"] (http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) as a supplemental resource for all technical topics covered in class.
   - _Coding_
     - We'll use a shared dropbox folder for submitting coding homework assignments. 
 - Evaluation: 
