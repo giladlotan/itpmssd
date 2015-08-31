@@ -16,5 +16,5 @@ _Technical_
 - As small teams (3-4 people), write an interview protocol about how information is controlled in an era of algorithms.
 
 _Reading_
-- Lawrence Lessig, “Code 2.0” (Ch 7: “What Things Regulate”)
-- Judith Donath, “Identity and Deception in the Virtual Community"
+- Lawrence Lessig, “Code 2.0” (Ch 7: “What Things Regulate”) (Dropbox)
+- Judith Donath, [“Identity and Deception in the Virtual Community"] (http://smg.media.mit.edu/people/Judith/Identity/IdentityDeception.html)
