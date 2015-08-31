@@ -41,7 +41,8 @@ In this class we will explore various computational and social science approache
 - Assignments:
   - _Reading_: 
     - Each week, there will be some form of reading. We are keeping the reading short and accessible so please do it. 
-    - The readings are available via Dropbox or through an online link, as indicated in the assignment section of each week.  
+    - The required readings are available via Dropbox or through an online link, as indicated in the assignment section of each week.  
+    - We strongly recommend acquiring a copy of ["Learning from Strangers"] (http://www.amazon.com/Learning-Strangers-Qualitative-Interview-Studies/dp/0684823128/)
   - _Coding_
     - We'll use a shared dropbox folder for submitting coding homework assignments. 
 - Evaluation: 
