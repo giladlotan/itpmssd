@@ -1,6 +1,7 @@
 ### [9/25] Social Network Analysis, Networkx, Gephi
 
 _Social Discussion_: social networks & social media
+- based on homework readings: Introduction to Alain Degenne & Michel Forse, “Introducing Social Networks”; Scott Feld, “The Focused Organization of Social Ties"; Mark Granovetter, “The Strength of Weak Ties” 
 - Different types of networks (behavioral, social, articulated)
 - The rise of social media
 
