@@ -22,7 +22,7 @@ _Technical_
     - what did you find?
     - trending topics
 
-_Reading_
+_Readings for next week_
 - [The Agency | Adrian Chen] (http://www.nytimes.com/2015/06/07/magazine/the-agency.html?_r=0)
 - Strongly recommend buying a copy of Robert Weiss, “Learning from Strangers” to scan (won’t photocopy well)
 - [Using Twitter Bots to Win Contests] (http://www.hscott.net/twitter-contest-winning-as-a-service/)
