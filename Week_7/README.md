@@ -1,4 +1,4 @@
-### [10/23] Regression, Prediction  
+### [10/23] Models, Regression & Prediction  
 
 _Social Discussion_: Learning from People
 - Going through interview findings
