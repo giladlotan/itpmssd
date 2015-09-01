@@ -18,7 +18,7 @@ In this class we will explore various computational and social science approache
 - [[9/18] (https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md)]  3. Networked Publics, Instagram/Twitter APIs, Simple Stats - distributions, plots
 - [[9/25] (https://github.com/giladlotan/itpmssd/blob/master/Week_4/README.md)]  4. Social Network Analysis, Networkx, Gephi
 - [[10/2]  (https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md)] 5. Interviews, Text Analysis, Markov Chains
-- [[10/9]  (https://github.com/giladlotan/itpmssd/blob/master/Week_6/README.md)] 6. Recommender Systems, Similarity Measures, Collaborative Filtering
+- [[10/9]  (https://github.com/giladlotan/itpmssd/blob/master/Week_6/README.md)] 6. Trust & Regulation | Recommender Systems
 - [10/16] ---> NO CLASS
 - [[10/23] (https://github.com/giladlotan/itpmssd/blob/master/Week_7/README.md)] 7. Models, Prediction
 - [[10/30] (https://github.com/giladlotan/itpmssd/blob/master/Week_8/README.md)] 8. Data Visualization, Slack Bot Integrations
