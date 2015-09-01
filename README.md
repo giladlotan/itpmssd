@@ -26,7 +26,7 @@ In this class we will explore various computational and social science approache
 - [[11/13] (https://github.com/giladlotan/itpmssd/blob/master/Week_9/README.md)] 9. Bot Assignment Due
 - [[11/20] (https://github.com/giladlotan/itpmssd/blob/master/Week_10/README.md)] 10. Classification, or Modern Day Magic
 - [11/27] ---> NO CLASS
-- [[12/4]  (https://github.com/giladlotan/itpmssd/blob/master/Week_11/README.md)] 11. Social Consequences, Unintended
+- [[12/4]  (https://github.com/giladlotan/itpmssd/blob/master/Week_11/README.md)] 11. Topic TBD | Unintended Consequences
 - [[12/11] (https://github.com/giladlotan/itpmssd/blob/master/Week_12/README.md)] 12. Present Final Projects
 
 ---
