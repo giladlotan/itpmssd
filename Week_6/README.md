@@ -17,3 +17,8 @@ _Technical Discussion_
 
 #### Assignment (due:10/23)
 - Iterate on your interview protocol. Each person interview 2-3 people (recorded). Take field notes about the interviews.  Creatively imagine how to share what you learn. 
+
+_Readings for next week_
+- [The Agency | Adrian Chen] (http://www.nytimes.com/2015/06/07/magazine/the-agency.html?_r=0)
+- I strongly recommend buying/borrowing a copy of Robert Weiss, “Learning from Strangers” to scan
+- [Using Twitter Bots to Win Contests] (http://www.hscott.net/twitter-contest-winning-as-a-service/)
