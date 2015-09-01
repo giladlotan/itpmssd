@@ -13,6 +13,7 @@ _Technical Discussion_
 - Markov Chains
   - generators, list comprehensions
   - ... in which we build a Twitter Zombie Bot!
+- Slack WebHooks / Commands
 
 #### Assignment: (due 11/13)
 - 3-week project: build a Slack bot 
