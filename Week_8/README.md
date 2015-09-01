@@ -1,5 +1,7 @@
 ### [10/30] Data Visualization 
 
+<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_7/README.md"> Week 7 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_9/README.md"> Week 9 </a> --> </p>
+
 _Discussion_
 - Visualization as an art, as information
 
