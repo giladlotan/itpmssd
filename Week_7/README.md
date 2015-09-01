@@ -1,5 +1,7 @@
 ### [10/23] Power & Manipulation | Intro to Bots
 
+<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_6/README.md"> Week 6 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_8/README.md"> Week 8 </a> --> </p>
+
 _Learning from People_ 
 - Going through interview findings
 - Talking about perception vs. reality
