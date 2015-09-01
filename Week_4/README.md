@@ -16,7 +16,7 @@ _Technical Discussion_
 #### Assignments
 
 _Technical_
-- use (either IG or other ****? twitter, disqus, fb, linkedIn, giphy...) APIs to examine a network digitally. (group project?)
+- use IG or Twitter APIs to examine a network digitally. (group project?)
     - describe your data source
     - what are the items, what relationships are you looking at
     - what did you find?
