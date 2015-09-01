@@ -10,6 +10,8 @@ _Discussion_
 - http://linkurio.us/toolkit/
 - a nation of poverty: http://labratrevenge.com/nation-of-poverty/
 
+- Spend time on Slack Bot integration (if needed)
+
 #### Assignment
 
 - Continue work on Bots (due: 11/13)
