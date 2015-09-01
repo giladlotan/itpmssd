@@ -22,3 +22,5 @@ _Technical_
     - what did you find?
     - trending topics
 
+_Reading for Next Week_
+- I strongly recommend buying/borrowing a copy of Robert Weiss, “Learning from Strangers” to scan
