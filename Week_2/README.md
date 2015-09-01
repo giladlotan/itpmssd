@@ -1,6 +1,6 @@
 ### [9/11] Participant-Observation, pandas DataFrames
 
-<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_1/README.md"> Week 1 </a>  <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md"> Week 3 </a> --> </p>
+<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_1/README.md"> Week 1 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md"> Week 3 </a> --> </p>
 
 _Social Discussion_
 - Discussions based on homework reading:
