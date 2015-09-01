@@ -1,6 +1,7 @@
-### [12/4] Social Consequences / Unintended
+### [12/4] Topics TBD 
 
-_Social Discussion_: Unintended Consequences
+_Social Discussion_: 
+- Social Consequences and Unintended Consequences
 
 _Technical Discussion_
 
