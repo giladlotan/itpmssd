@@ -13,7 +13,7 @@ _Technical Discussion_
 - Python's requests library
 - Access Instagram’s API
 - Load Instagram data into pandas DataFrames.
-- simple stats / distribution / ploting data
+- simple statistics, plotting data
 
 #### Assignments
 
