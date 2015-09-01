@@ -1,7 +1,7 @@
 ### [12/4] Topics TBD 
 
 _Social Discussion_: 
-- Social Consequences and Unintended Consequences
+- Unintended Consequences ?
 
 _Technical Discussion_
 
