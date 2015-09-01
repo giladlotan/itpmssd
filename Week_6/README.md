@@ -1,4 +1,4 @@
-### [10/9] Text Analysis, Bot Stage 2
+### [10/9] Recommender Systems, Similarity Measures, Collaborative Filtering
 
 _Social Discussion_: Power, Control, and Manipulation
 - Discuss Interview Protocols
