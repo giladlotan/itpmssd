@@ -3,7 +3,6 @@
 _Discuss Interview Protocols_
 
 _Social Discussion_: Power, Control, and Manipulation
-- The same systems that can be useful can also manipulate
 - The role of trust in information ecologies
 - How systems get regulated
 
