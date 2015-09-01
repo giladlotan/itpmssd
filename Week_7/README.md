@@ -1,4 +1,4 @@
-### [10/23] Power, Manipulation | Intro to Bots
+### [10/23] Power & Manipulation | Intro to Bots
 
 _Learning from People_ 
 - Going through interview findings
