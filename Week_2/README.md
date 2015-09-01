@@ -1,4 +1,4 @@
-### [9/11] Participant-Observation, DataFrames
+### [9/11] Participant-Observation, pandas DataFrames
 
 _Social Discussion_
 - Discussions based on homework reading:
