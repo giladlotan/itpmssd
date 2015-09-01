@@ -1,4 +1,4 @@
-### [10/2] Interviews, Intro to Text Analysis
+### [10/2] Interviews, Intro to Text Analysis, Markov Chains
 
 _Social Discussion_: Asking Hard Questions
 - Methodological discussion of interviewing
