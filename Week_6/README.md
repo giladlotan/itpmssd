@@ -1,4 +1,4 @@
-### [10/9] Recommender Systems, Similarity Measures, Collaborative Filtering
+### [10/9] Trust & Regulation | Recommender Systems
 
 _Discuss Interview Protocols_
 
