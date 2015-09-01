@@ -1,5 +1,6 @@
 ### [9/4] Class Intro, Python basics, Amazon AWS
-<p align="center"> [<a href="https://github.com/giladlotan/itpmssd/blob/master/README.md"> syllabus </a>]  [<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_2/README.md"> Week 2 </a>] </p>
+
+<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/README.md"> Syllabus </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_2/README.md"> Week 2 </a> --> </p>
 
 _Course Overview_
 - What are we trying to achieve?
