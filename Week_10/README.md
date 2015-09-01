@@ -1,6 +1,7 @@
 ### [11/20] Classification, or Modern Day Magic!
 
 _Social Discussion_: Classification & Categories
+- Discuss Geoffrey Bowker & Susan Leigh Star, "Sorting Things Out” (Ch 6: “The Case of Race Categorization and Classification Under Apartheid”) 
 - The politics of classification
 - Talking through bathrooms, categories in social media & other categories 
 
