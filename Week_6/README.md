@@ -2,7 +2,7 @@
 
 _Discuss Interview Protocols_
 
-_Social Discussion_: Power, Control, and Manipulation
+_Social Discussion_: Trust, Control, and Regulation
 - The role of trust in information ecologies
 - How systems get regulated
 
