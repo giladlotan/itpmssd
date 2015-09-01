@@ -1,9 +1,8 @@
 ### [10/30] Data Visualization 
 
-_Social Discussion_
+_Discussion_
 - Visualization as an art, as information
 
-_Technical Discussion_
 - try graph-tool? https://graph-tool.skewed.de/
 - a great tutorial (js) for different Graph viz: http://elijahmeeks.com/networkviz/ 
 - js library for graph viz: http://sigmajs.org/
@@ -11,7 +10,6 @@ _Technical Discussion_
 - http://linkurio.us/toolkit/
 - a nation of poverty: http://labratrevenge.com/nation-of-poverty/
 
-#### Assignments
+#### Assignment
 
-_Technical_
-- Use Gephi (or d3) to visualize
+- Continue work on Bots
