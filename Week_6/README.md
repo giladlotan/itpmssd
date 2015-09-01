@@ -1,5 +1,7 @@
 ### [10/9] Trust & Regulation | Recommender Systems
 
+<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md"> Week 5 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_7/README.md"> Week 7 </a> --> </p>
+
 _Discuss Interview Protocols_
 
 _Social Discussion_: Trust, Control, and Regulation
