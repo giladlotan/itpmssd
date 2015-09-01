@@ -1,5 +1,7 @@
 ### [10/2] Interviews, Intro to Text Analysis
 
+<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_4/README.md"> Week 4 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_6/README.md"> Week 6 </a> --> </p>
+
 _Social Discussion_: Asking Hard Questions
 - Methodological discussion of interviewing
 - How to write an interview protocol
