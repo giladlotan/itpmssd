@@ -4,8 +4,9 @@ _Learning from People_
 - Going through interview findings
 - Talking about perception vs. reality
 
-_Social Discussion_: Power and Manipulation
+_Social Discussion_: Power and Manipulation AND BOTS!
 - Introduction to Bots
+- Discuss: [The Agency | Adrian Chen] (http://www.nytimes.com/2015/06/07/magazine/the-agency.html?_r=0) and [Using Twitter Bots to Win Contests] (http://www.hscott.net/twitter-contest-winning-as-a-service/)
 - The same systems that can be useful can also manipulate
 
 _Technical Discussion_
