@@ -21,7 +21,7 @@ In this class we will explore various computational and social science approache
 - [[10/9]  (https://github.com/giladlotan/itpmssd/blob/master/Week_6/README.md)] 6. Trust & Regulation | Recommender Systems
 - [10/16] ---> NO CLASS
 - [[10/23] (https://github.com/giladlotan/itpmssd/blob/master/Week_7/README.md)] 7. Power & Manipulation | Intro to Bots
-- [[10/30] (https://github.com/giladlotan/itpmssd/blob/master/Week_8/README.md)] 8. Data Visualization, Slack Bot Integrations
+- [[10/30] (https://github.com/giladlotan/itpmssd/blob/master/Week_8/README.md)] 8. Data Visualization
 - [11/6]  ---> NO CLASS
 - [[11/13] (https://github.com/giladlotan/itpmssd/blob/master/Week_9/README.md)] 9. Bot Assignment Due
 - [[11/20] (https://github.com/giladlotan/itpmssd/blob/master/Week_10/README.md)] 10. Classification, or Modern Day Magic
