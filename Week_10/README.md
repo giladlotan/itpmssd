@@ -14,7 +14,6 @@ _Technical Discussion_
 _Introduce Final Project_
 
 #### Assignment
-- Identify examples of classification that have social ramifications. Find a creative way to document them.
 - Start working on final projects (due 12/11)
 
 _Reading for next week_
