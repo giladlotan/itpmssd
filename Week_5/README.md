@@ -1,4 +1,4 @@
-### [10/2] Interviews, Intro to Text Analysis, Markov Chains
+### [10/2] Interviews, Intro to Text Analysis
 
 _Social Discussion_: Asking Hard Questions
 - Methodological discussion of interviewing
@@ -7,8 +7,6 @@ _Social Discussion_: Asking Hard Questions
 _Technical Discussion_
  - cleaning up text, stop works, and regular expressions.
  - Slack incoming webhook
- - Markov Chains
-      - generators, list comprehensions
 
 #### Assignments
 
