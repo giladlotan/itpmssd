@@ -15,7 +15,7 @@ In this class we will explore various computational and social science approache
 
 - [[9/4] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/README.md)]   1. Class Intro: Models, Python, Amazon AWS
 - [[9/11] (https://github.com/giladlotan/itpmssd/blob/master/Week_2/README.md)]  2. Participant-Observation, Loading data into pandas DataFrames
-- [[9/18] (https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md)]  3. Networked Publics, Instagram/Twitter APIs, Simple Stats - distributions, plots
+- [[9/18] (https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md)]  3. Networked Publics, Instagram/Twitter APIs, Simple Stats
 - [[9/25] (https://github.com/giladlotan/itpmssd/blob/master/Week_4/README.md)]  4. Social Network Analysis, Networkx, Gephi
 - [[10/2]  (https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md)] 5. Interviews, Text Analysis, Markov Chains
 - [[10/9]  (https://github.com/giladlotan/itpmssd/blob/master/Week_6/README.md)] 6. Trust & Regulation | Recommender Systems
