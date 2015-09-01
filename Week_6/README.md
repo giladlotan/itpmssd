@@ -10,7 +10,6 @@ _Technical Discussion_
 - Pearson Correlation Coefficient
 - Cosine Similarity & K-nearest neighbor
 - Collaborative Filtering
-- go over slack slash command (for bot assignment)
 
 #### Assignments (due:10/23) 
 - Iterate on your interview protocol. Each person interview 2-3 people (recorded). Take field notes about the interviews.  Creatively imagine how to share what you learn. 
