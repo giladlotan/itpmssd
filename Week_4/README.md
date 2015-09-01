@@ -1,5 +1,7 @@
 ### [9/25] Social Network Analysis, Networkx, Gephi
 
+<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md"> Week 3 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md"> Week 5 </a> --> </p>
+
 _Social Discussion_: social networks & social media
 - based on homework readings: Introduction to Alain Degenne & Michel Forse, “Introducing Social Networks”; Scott Feld, “The Focused Organization of Social Ties"; Mark Granovetter, “The Strength of Weak Ties” 
 - Different types of networks (behavioral, social, articulated)
