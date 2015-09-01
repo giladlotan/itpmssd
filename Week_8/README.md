@@ -12,4 +12,4 @@ _Discussion_
 
 #### Assignment
 
-- Continue work on Bots
+- Continue work on Bots (due: 11/13)
