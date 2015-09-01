@@ -4,7 +4,7 @@ _Learning from People_
 - Going through interview findings
 - Talking about perception vs. reality
 
-_Social Discussion_: Bots
+_Social Discussion_: Power, Manipulation, and Control
 - Introduction to Bots
 - The same systems that can be useful can also manipulate
 
