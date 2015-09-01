@@ -1,4 +1,4 @@
-### [9/18] Networked Publics, APIs
+### [9/18] Networked Publics | Using Instagram/Twitter APIs
 
 _Assignment Discussion_: 
 - Each group will present their "seeing" assignment for 5 minutes, followed by a brief discussion by the class.
