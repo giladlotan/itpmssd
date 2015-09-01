@@ -1,11 +1,12 @@
 ### [10/23] Models, Regression & Prediction  
 
-_ Learning from People_ 
+_Learning from People_ 
 - Going through interview findings
 - Talking about perception vs. reality
 
 _Social Discussion_: Bots
 - Introduction to Bots
+- The same systems that can be useful can also manipulate
 
 _Technical Discussion_
 - Model building
