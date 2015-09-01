@@ -1,5 +1,7 @@
 ### [9/18] Networked Publics | Using Instagram/Twitter APIs
 
+<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_2/README.md"> Week 2 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_4/README.md"> Week 4 </a> --> </p>
+
 _Assignment Discussion_: 
 - Each group will present their "seeing" assignment for 5 minutes, followed by a brief discussion by the class.
 
