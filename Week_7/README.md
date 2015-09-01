@@ -19,4 +19,4 @@ _Technical Discussion_
 - (week 1: create simple Flask endpoint for check-in)
 
 _Reading_
-- read: Politics of …(?) (Tufte) [??]
+- read:  (Tufte) [?]
