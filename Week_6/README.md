@@ -7,9 +7,6 @@ _Social Discussion_: Trust, Control, and Regulation
 - How systems get regulated
 
 _Technical Discussion_
-- Simple Stats / distributions
-  - statistical significance: http://fivethirtyeight.com/features/science-isnt-broken/ ?
-- outlier detection / trends
 - Pearson Correlation Coefficient
 - Cosine Similarity & K-nearest neighbor
 - Collaborative Filtering
