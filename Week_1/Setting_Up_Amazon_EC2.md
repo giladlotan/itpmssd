@@ -13,9 +13,8 @@ First thing we'll do is make an Amazon AWS account (if you have one already, ski
 - Launch Instance (big blue button) -> Click on *Community AMIs* in the left sidebar
 - Search for the following AMI id:
 ```sh
-ami-2382e346
+ami-e5ea6d8e
 ```
-(if for some reason you can't find that one -> try this: ami-e5ea6d8e)
 
 - Select -> Review and Launch -> Edit Security Groups
 - Add Rule -> In the new section that comes up, insert 8887 under "Port Range" , and use the drop-down menu bar under "Source" to choose the 'anywhere' option. Leave "Type" as Custom TCP Rule.
