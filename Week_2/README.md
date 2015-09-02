@@ -14,9 +14,7 @@ _Social Discussion_
 _Technical Discussion_
 - Load data from a CSV file
 - Intro to data analysis using pandas DataFrame
-- Plotting our data
 - Endpoint on our AWS machine (hello world), using Flask
-- ?Stop and Frisk? Data: http://www.nyclu.org/content/stop-and-frisk-data
 
 #### Assignments
 
