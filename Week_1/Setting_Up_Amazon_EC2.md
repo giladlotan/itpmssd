@@ -15,6 +15,8 @@ First thing we'll do is make an Amazon AWS account (if you have one already, ski
 ```sh
 ami-2382e346
 ```
+(if for some reason you can't find that one -> try this: ami-e5ea6d8e)
+
 - Select -> Review and Launch -> Edit Security Groups
 - Add Rule -> In the new section that comes up, insert 8887 under "Port Range" , and use the drop-down menu bar under "Source" to choose the 'anywhere' option. Leave "Type" as Custom TCP Rule.
 (What we're doing here is making sure that port 8887 is open on this machine. We'll use this port to access our iPython notebooks remotely.)
