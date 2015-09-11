@@ -12,6 +12,10 @@ _Social Discussion_
     - Interpretation
 
 _Technical Discussion_
+- Basic statistics
+    - normal distribution, mean, median, standard deviation
+    - histograms, box plots
+    - correlation
 - Load data from a CSV file
 - Intro to data analysis using pandas DataFrame
 
