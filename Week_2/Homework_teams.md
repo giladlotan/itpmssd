@@ -8,7 +8,7 @@
 - Lutfiadi Rahmanto
 - Ainsley Oconnell
 - Eli Zhang
-- Weishun Kao
+- Melissa Kang
 
 ### Team 3
 - Shan Jin
