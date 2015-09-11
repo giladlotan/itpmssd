@@ -9,6 +9,8 @@ _Social Discussion_: Asking Hard Questions
 _Technical Discussion_
  - cleaning up text, stop works, and regular expressions.
  - Slack incoming webhook
+ - Endpoint on our AWS machine (hello world), using Flask
+
 
 #### Assignments
 
