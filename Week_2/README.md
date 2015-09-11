@@ -14,9 +14,8 @@ _Social Discussion_
 _Technical Discussion_
 - Load data from a CSV file
 - Intro to data analysis using pandas DataFrame
-- Endpoint on our AWS machine (hello world), using Flask
 
-#### Assignments
+#### Assignment
 
 _Social Observation: Learning to Watch The Street_
 - Sit in a public place (cafe, park, subway, etc.) for 30-60 minutes with 3 of your classmates. (Group assignments given out in class.)  Watch how people move, how they interact.  Watch their facial expressions and their gestures. Look at how they queue, how they deal with proximity, how they create order, how they navigate violations of social protocol.
@@ -24,7 +23,3 @@ _Social Observation: Learning to Watch The Street_
 - As a group, create a representation of what you saw so that others can see too. (Use photography, animation, sketches, text, whatever allows you to express what you saw.) 
 - Plan for a 5-minute presentation of what you saw, what differences in perspective you had as a group, and how you chose to represent what you saw.  
 - _Goal: The goal of this assignment is to reflect on what you see and what you don't, what you give special attention to and what you gloss over. In discussion and representation, pay attention to the differences in what your team members see._
-
-
-_Reading_
-- Technical Reading API to be determined.. 
