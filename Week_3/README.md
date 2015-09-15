@@ -10,12 +10,13 @@ _Social Discussion_ : Networked Publics
 - Social steganography and the power of meaning
 
 _Technical Discussion_
-- This week we’ll be using API’s to access data from social media. Specifically, we’ll look at Instagram data, and ways in which we can analyze publicly shared posts.
+- Analyze two datasets:
+  - Titanic
+  - Stop & Frisk
+
 - Oauth and API tokens.
-- Python's requests library
-- Access Instagram’s API
-- Load Instagram data into pandas DataFrames.
-- simple statistics, plotting data
+- This week we’ll be using API’s to access data from social media. Specifically, we’ll look at Instagram data, and ways in which we can analyze publicly shared posts.
+- Access Instagram’s API, and load Instagram data into pandas DataFrames.
 
 #### Assignments
 
