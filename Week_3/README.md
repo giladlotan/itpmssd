@@ -20,7 +20,7 @@ _Technical Discussion_
 #### Assignments
 
 _Technical_
-- use Instagram’s API to run an analysis (TBD) on hashtag, or geo-location (slack web-hook?)
+- use Instagram’s API to run an analysis (TBD) on hashtag
 
 _Readings for next week_
 - Introduction to Alain Degenne & Michel Forse, “Introducing Social Networks”  (Dropbox)
