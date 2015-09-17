@@ -11,6 +11,8 @@ Data are created and collected all around us, trails left from interactions in s
 In this class we will explore various computational and social science approaches to understanding networked users. We’ll collect data by talking to people, as well as use Python scripts to access data from APIs such as Twitter and Instagram. We’ll learn how to make sense of these different data, touching topics such as qualitative interviewing, ethnographic observation, content analysis, natural language processing, content classification, authority ranking, and clustering. We’ll also be using a number of open source tools that help us make sense of networks, including Gephi and Python’s networkx library. And we'll be diving into literature from various fields - including sociology and media studies - to make sense of social data that we gather along the way.
 
 ---
+<p align="right"><a href="https://github.com/giladlotan/itpmssd/blob/master/Week_1/README.md"> Week 1 </a> --> </p>
+
 ### Schedule
 
 - [[9/4] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/README.md)]   1. Class Intro: Models, Python, Amazon AWS
