@@ -10,7 +10,6 @@ _Technical Discussion_
   - Titanic
   - Stop & Frisk
 
-- Oauth and API tokens.
 - This week we’ll be using API’s to access data from social media. Specifically, we’ll look at Instagram data, and ways in which we can analyze publicly shared posts.
 - Access Instagram’s API, and load Instagram data into pandas DataFrames.
 
