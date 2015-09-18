@@ -21,7 +21,8 @@ _Social Discussion_
 _Technical_
 - Ask a question of the "Stop and Frisk" dataset. Use that question to drive an analysis and plot a statistical relationship from the data.
 - Submit an RTF (or PDF) file to Dropbox that includes: 1) what question did you ask?; 2) why did you ask that question?; 3) a plot of the data that you obtained; 4) a brief (~3-5 sentence) analysis of what you learned.
-- You may do this assignment alone or in pairs. Not everyone will present next week, but everyone should be prepared to present.
+- You may do this assignment alone, in pairs, or in groups of 3. Your choice as to team. Not everyone will present next week, but everyone should be prepared to present.
+- Put your question (at least) into the Assignments folder by Thursday at 7PM.
 
 _Readings for next week_
 - (Optional Overview) Introduction to Alain Degenne & Michel Forse, “Introducing Social Networks”  (Dropbox)
