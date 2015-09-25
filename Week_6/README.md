@@ -1,4 +1,4 @@
-### [10/9] Trust & Regulation | Recommender Systems
+### [10/9] Trust & Regulation | Text Analysis, Recommender Systems
 
 <p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md"> Week 5 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_7/README.md"> Week 7 </a> --> </p>
 
