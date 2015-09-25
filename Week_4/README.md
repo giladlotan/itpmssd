@@ -14,8 +14,15 @@ _Technical Discussion_
 #### Assignments
 
 _Technical_
-- Get familiar with this Twitter API code
-- Pick a hashtag that's actively used on both Twitter and Instagram, and answer the questions in this iPython notebook. Submit your notebook to our class Dropbox.
+- Get familiar with [this Twitter API code] (https://github.com/giladlotan/itpmssd/blob/master/Week_4/TwitterAPI.ipynb)
+- Pick a hashtag that's actively used on both Twitter and Instagram, and complete the following tasks/questions in an ipython notebook that you submit to our shared Dropbox:
+    1. Describe the two datasets:
+        - how many items does each include?
+        - how many unique users?
+        - what are the date ranges?
+    2. Create a single plot that displays both Number of Tweets and number of Instagram Posts over time for your chosen hashtag.
+    3. Identify the Tweets with mosts Retweets, as well as the Tweet posted by a user who has the most number of followers from this dataset.
+    4. Identify the IG posts that have the largest number of likes and the one that has the largest number of comments.
 
 _Reading for Next Week_
 - You have another week to go over the readings assigned last week. They will be critical to our discussion next week!
