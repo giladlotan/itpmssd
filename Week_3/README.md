@@ -10,12 +10,6 @@ _Technical Discussion_
   - Titanic
   - Stop & Frisk
 
-- This week we’ll be using API’s to access data from social media. Specifically, we’ll look at Instagram data, and ways in which we can analyze publicly shared posts.
-- Access Instagram’s API, and load Instagram data into pandas DataFrames.
-
-_Social Discussion_
-- Using Instagram to "see"
-
 #### Assignments
 
 _Technical_
