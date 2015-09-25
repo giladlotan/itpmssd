@@ -1,8 +1,8 @@
-### [10/2] Social Media and Social Network Analysis (using Networkx & Gephi)
+### [10/2] Social Network Analysis (using Networkx & Gephi)
 
 <p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md"> Week 3 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md"> Week 5 </a> --> </p>
 
-_Social Discussion_: social networks & social media
+_Social Discussion_: social network analysis
 - based on homework readings: Scott Feld, “The Focused Organization of Social Ties"; Mark Granovetter, “The Strength of Weak Ties” 
 - Different types of networks (behavioral, social, articulated)
 - The rise of social media
@@ -18,7 +18,7 @@ _Technical Discussion_
 #### Assignments
 
 _Technical_
-- use IG or Twitter APIs to examine a network digitally. (group project?)
+- use IG or Twitter APIs to examine a network digitally.
     - describe your data source
     - what are the items, what relationships are you looking at
     - what did you find?
