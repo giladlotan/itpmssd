@@ -1,28 +1,21 @@
-### [9/25] Social Media and Social Network Analysis (Plus Networkx, Gephi)
+### [9/25] Social Media & Networked Publics
 
 <p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md"> Week 3 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md"> Week 5 </a> --> </p>
 
-_Social Discussion_: social networks & social media
-- based on homework readings: Scott Feld, “The Focused Organization of Social Ties"; Mark Granovetter, “The Strength of Weak Ties” 
-- Different types of networks (behavioral, social, articulated)
-- The rise of social media
+_Social Discussion_: social media & networked publics
+- Using Instagram to "see"
 
 _Technical Discussion_
-- Graph properties help us understand relationship between items.
-    - goals: divide population into groups, find important people within a group, predict how information will spread, etc..
-    - concepts: connected components, triadic closure, small world networks, homophily, social ties, ...
-    - graph properties: density, cc, centrality, partitioning (modularity) 
-    - karate club: example graph + insight
-- Example: Instagram social network graphs, co-tag graphs, geo-graphs
+- Spend time analyzing Stop & Frisk dataset
+    - Go over questions and answers from assignment
+- This week we’ll be using API’s to access data from social media. Specifically, we’ll look at Instagram data, and ways in which we can analyze publicly shared posts.
+- Access Instagram’s API, and load Instagram data into pandas DataFrames.
 
 #### Assignments
 
 _Technical_
-- use IG or Twitter APIs to examine a network digitally. (group project?)
-    - describe your data source
-    - what are the items, what relationships are you looking at
-    - what did you find?
-    - trending topics
+- Get familiar with this Twitter API code
+- Pick a hashtag that's actively used on both Twitter and Instagram, and answer the questions in this iPython notebook. Submit your notebook to our class Dropbox.
 
 _Reading for Next Week_
-- I strongly recommend buying/borrowing a copy of Robert Weiss, “Learning from Strangers” to read through. There's a copy on the floor that I donated to the library. Get a sense for interviewing techniques.
+- You have another week to go over the readings assigned last week. They will be critical to our discussion next week!

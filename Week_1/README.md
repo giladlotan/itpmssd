@@ -18,7 +18,9 @@ _Technical_
 - SETUP: For those of you who haven't already, make sure your [Amazon AWS machine] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Setting_Up_Amazon_EC2.md) is set up.
 - PYTHON: Make sure you understand the major concepts covered in class - [Intro to Python Notebook] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Introduction_to_python.ipynb). 
 - CODING ASSIGNMENT: Complete this [week's coding assignment] (https://github.com/giladlotan/itpmssd/blob/master/Week_1/Week_1_coding_assignment.ipynb). Submit your ipython notebook (.ipynb file) to [the following Dropbox folder] (https://www.dropbox.com/sh/ooepgpucwgwn3ta/AACE63v1c8B_7BjMkfNkOX6Va?dl=0).
-- EXTRA: [Code Academy] (https://www.codecademy.com/en/tracks/python) is a great place to learn more about the Python programming language. If you have spare time, complete some of the tutorials on the site.
+- EXTRA: 
+    - [Code Academy] (https://www.codecademy.com/en/tracks/python) is a great place to learn more about the Python programming language. If you have spare time, complete some of the tutorials on the site.
+    - [Learn Python the Hard Way] (http://learnpythonthehardway.org/book/) a fantastic resource for Python beginners. 
 - UNIX: you may want to have [this] (http://files.fosswire.com/2007/08/fwunixref.pdf) (or any other similar) cheat-sheet handy for navigating the UNIX command line.
 
 _Readings for next week:_
