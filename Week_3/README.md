@@ -1,4 +1,4 @@
-### [9/18] Exploratory Data Analysis | Intro to APIs
+### [9/18] Exploratory Data Analysis 
 
 <p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_2/README.md"> Week 2 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_4/README.md"> Week 4 </a> --> </p>
 
