@@ -1,6 +1,6 @@
 ### [10/2] Social Network Analysis (using Networkx & Gephi)
 
-<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md"> Week 3 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md"> Week 5 </a> --> </p>
+<p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_4/README.md"> Week 4 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_6/README.md"> Week 6 </a> --> </p>
 
 _Social Discussion_: social network analysis
 - based on homework readings: Scott Feld, “The Focused Organization of Social Ties"; Mark Granovetter, “The Strength of Weak Ties” 
