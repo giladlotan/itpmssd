@@ -1,4 +1,4 @@
-### [9/25] Social Media and Social Network Analysis (Plus Networkx, Gephi)
+### [9/25] Social Media
 
 <p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md"> Week 3 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md"> Week 5 </a> --> </p>
 
