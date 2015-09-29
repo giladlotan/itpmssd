@@ -2,7 +2,8 @@
 
 <p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md"> Week 5 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_7/README.md"> Week 7 </a> --> </p>
 
-_Discuss Interviewing_
+_Social Discussion: Interviewing_
+- How to interview people
 
 _Technical Discussion_
 - Pearson Correlation Coefficient
