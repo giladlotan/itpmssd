@@ -5,7 +5,6 @@
 _Social Discussion_: social network analysis
 - based on homework readings: Scott Feld, “The Focused Organization of Social Ties"; Mark Granovetter, “The Strength of Weak Ties” 
 - Different types of networks (behavioral, social, articulated)
-- The rise of social media
 
 _Technical Discussion_
 - Graph properties help us understand relationship between items.
