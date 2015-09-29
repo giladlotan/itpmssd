@@ -14,7 +14,7 @@ _Technical Discussion_
 _Interview Assignment_
 - Ask a question about data, algorithms, or technology that can be addressed through interviewing. 
 - Produce an interview protocol. If you send it to danah by 10/13, she will give you feedback by 10/15. (Otherwise, it is due with the assignment.)
-- Choose 2-3 people to interview F2F (15-30 minutes each). You may interview in your native tongue. Record the audio. Spend 20 minutes taking notes afterwards. 
+- Choose 3 people to interview F2F (15-30 minutes each). You may interview in your native tongue. Record the audio. Spend 20 minutes taking notes afterwards. 
 - Listen to your audio, draw out themes, and new questions that the interviews triggered.
 - Write a 1-pager describing what you learned. Include your question (and why you chose that question), who you interviewed (and why you chose them), findings, themes, and questions from your interviews. Upload this 1-pager and your interview protocol by 4PM on October 21st.
 
