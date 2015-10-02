@@ -16,5 +16,11 @@ _Technical Discussion_
 
 #### Assignments
 
+_Technical_
+- Go over the last part of the Network Analysis notebook from class. Answer the following two questions (short, 1-2 paragraphs for each question):
+1. Take a look at the series of code blocks below. The same action is taken on our class graph over a number of iterations. Explain what's going on here.
+
+2. Describe what happens in the end. Do you have an explanation for why this would happen to the graph? What's the significance?
+
 _Reading for Next Week_
 - I strongly recommend buying/borrowing a copy of Robert Weiss, “Learning from Strangers” to read through. There's a copy on the floor that I donated to the library. Get a sense for interviewing techniques.
