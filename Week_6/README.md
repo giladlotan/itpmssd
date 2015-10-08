@@ -18,6 +18,6 @@ _Interview Assignment_
 - Listen to your audio, draw out themes, and new questions that the interviews triggered.
 - Write a 1-pager describing what you learned. Include your question (and why you chose that question), who you interviewed (and why you chose them), findings, themes, and questions from your interviews. Upload this 1-pager and your interview protocol by 4PM on October 21st.
 
-_Readings for next week_
+_Readings for next class_
 - [The Agency | Adrian Chen] (http://www.nytimes.com/2015/06/07/magazine/the-agency.html?_r=0)
 - [Using Twitter Bots to Win Contests] (http://www.hscott.net/twitter-contest-winning-as-a-service/)
