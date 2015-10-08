@@ -7,7 +7,7 @@ Crafting Mindfurl E,Eli
 Designing for Digi,Shaun,Eli,Denny
 Live Web,Paul,Ainsley,Maria,Jin Woo
 Basic Analog Circu,Ashley
-New Interfaces for,Denny,Ashley,
+New Interfaces for,Denny,Ashley
 Product Autopsy,Shan,Kat,Jason,Zhen
 Assistive Technolo,Paul,Shaun
 Learning Machines,Ainsley,Paul
@@ -19,7 +19,7 @@ Designing for Seni,Lutfiadi,Shan
 Hardwired for Stor,Jin Woo
 Persuasive Design,Caroline,Jin Woo,Paul
 Cabinets of Wonder,Maria
-From Prototype to,Shan,
+From Prototype to,Shan
 Designing for Data,Song,Ashley
 Homemade Hardware,Denny,Shaun,Lutfiadi
 Bodies in Motion,Jin Woo,Kat,Zhen
