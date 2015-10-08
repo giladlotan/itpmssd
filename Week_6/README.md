@@ -8,7 +8,7 @@ _Social Discussion: Interviewing_
 _Technical Discussion_
 - Network Analysis (part II)
   - connected components, clustering
-- Exploratory network analysis and visualization using Gephi
+- Exploratory network analysis and visualization using [Gephi] (http://gephi.github.io/).
 
 #### Assignments (due:10/21) 
 _Interview Assignment_
