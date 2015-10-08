@@ -6,9 +6,9 @@ _Social Discussion: Interviewing_
 - How to interview people
 
 _Technical Discussion_
-- Pearson Correlation Coefficient
-- Cosine Similarity & K-nearest neighbor
-- Collaborative Filtering
+- Network Analysis (part II)
+  - connected components, clustering
+- Exploratory network analysis and visualization using Gephi
 
 #### Assignments (due:10/21) 
 _Interview Assignment_
