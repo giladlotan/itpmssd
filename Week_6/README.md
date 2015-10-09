@@ -15,7 +15,7 @@ _Interview Assignment_
 - Ask a question about data, algorithms, or technology that can be addressed through interviewing. 
   - Example questions: What do Uber drivers do in response to the rating system on Uber? How do parents of teenagers understand the Facebook newsfeed algorithm? How do practicing data scientists understand ethics? 
 - Produce an interview protocol. If you send it to danah by 10/13, she will give you feedback by 10/15. (Otherwise, it is due with the assignment.)
-- Choose 3 people to interview F2F (15-30 minutes each). You may interview in your native tongue. Record the audio. Spend 20 minutes taking notes (in English) afterwards, reflecting on the interview itself. 
+- Choose 3 people to interview F2F (15-30 minutes each). You may interview in your native tongue. You *MUST* interview strangers. Record the audio. Spend 20 minutes taking notes (in English) afterwards, reflecting on the interview itself. 
 - Listen to your audio, draw out themes, and write down new questions that the interviews triggered.
 - Write a 1-2 pager describing what you learned. Include your question (and why you chose that question), who you interviewed (and why you chose them), initial findings, themes, and emergent questions from your interviews. Upload this 1-pager, your interview protocol, and the notes you took after the interview by 4PM on October 21st.
 
