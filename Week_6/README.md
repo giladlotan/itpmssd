@@ -13,7 +13,7 @@ _Technical Discussion_
 #### Assignments (due:10/21) 
 _Interview Assignment_
 - Ask a question about data, algorithms, or technology that can be addressed through interviewing. 
--- Example questions: What do Uber drivers do in response to the rating system on Uber? How do parents of teenagers understand the Facebook newsfeed algorithm? How do practicing data scientists understand ethics? 
+  - Example questions: What do Uber drivers do in response to the rating system on Uber? How do parents of teenagers understand the Facebook newsfeed algorithm? How do practicing data scientists understand ethics? 
 - Produce an interview protocol. If you send it to danah by 10/13, she will give you feedback by 10/15. (Otherwise, it is due with the assignment.)
 - Choose 3 people to interview F2F (15-30 minutes each). You may interview in your native tongue. Record the audio. Spend 20 minutes taking notes (in English) afterwards, reflecting on the interview itself. 
 - Listen to your audio, draw out themes, and write down new questions that the interviews triggered.
