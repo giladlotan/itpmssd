@@ -20,7 +20,7 @@ In this class we will explore various computational and social science approache
 - [[9/18] (https://github.com/giladlotan/itpmssd/blob/master/Week_3/README.md)]  3. Exploratory Data Analysis, Simple Stats
 - [[9/25] (https://github.com/giladlotan/itpmssd/blob/master/Week_4/README.md)]  4. Social Media & Networked Publics
 - [[10/2]  (https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md)] 5. Social Network Analysis & Networkx
-- [[10/9]  (https://github.com/giladlotan/itpmssd/blob/master/Week_6/README.md)] 6. Interviews, Trust & Regulation | Text Analysis, Recommender Systems
+- [[10/9]  (https://github.com/giladlotan/itpmssd/blob/master/Week_6/README.md)] 6. Interviews, Trust & Regulation | Network Analysis (Part II), Gephi
 - [10/16] ---> NO CLASS
 - [[10/23] (https://github.com/giladlotan/itpmssd/blob/master/Week_7/README.md)] 7. Power & Manipulation | Intro to Bots
 - [[10/30] (https://github.com/giladlotan/itpmssd/blob/master/Week_8/README.md)] 8. Data Visualization
