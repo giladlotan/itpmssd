@@ -1,4 +1,4 @@
-### [10/9] Interviewing | Text Analysis, Recommender Systems
+### [10/9] Interviewing | Network Analysis (Part II), Gephi
 
 <p align="center"> <--<a href="https://github.com/giladlotan/itpmssd/blob/master/Week_5/README.md"> Week 5 </a> | <a href="https://github.com/giladlotan/itpmssd/blob/master/Week_7/README.md"> Week 7 </a> --> </p>
 
