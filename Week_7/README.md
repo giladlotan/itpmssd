@@ -14,9 +14,8 @@ _Social Discussion_: Power and Manipulation AND BOTS!
 - The same systems that can be useful can also manipulate
 
 _Technical Discussion_
-- Markov Chains
-  - generators, list comprehensions
-  - ... in which we build a Twitter Zombie Bot!
+- Text Cleanup
+- Making our first endpoint (Hello World) using Flask
 - Slack WebHooks / Commands
 
 #### Assignment: (due 11/13)
