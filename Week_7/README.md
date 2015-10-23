@@ -20,7 +20,7 @@ _Technical Discussion_
 #### MIDTERM Assignment: (due 11/13)
 - 3-week project: build a Slack bot 
   - Along with [your assigned teams](https://github.com/giladlotan/itpmssd/blob/master/Week_7/teams.txt), you have three weeks to create a bot. What the bot does is COMPLETELY up to you. Make it interesting. Make it useful. Funny. Artsy. Deceptive. Your choice. 
-  - On the technical side, your bot should do something interesting with an external dataset or API (your choice), and run off of a server (ideally Flask).
+  - On the technical side, your bot should be leveraging an external dataset or API (your choice), and run off of a server (ideally Flask).
   - In three weeks, each group will have roughly 30 minutes (presentation + Live Demo + Q&A). There will be external guests coming in to see your presentations.
   - In addition to the presentations and live demos, your group is expected to write a short one pager about your bot: what does it do, and why did you choose to create it.
   - For next week, send over questions before thursday (4pm) so that we can prep relevant answers and tutorials for class.
