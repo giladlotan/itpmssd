@@ -8,6 +8,9 @@ _Discussion_
 
 _Technical_
 
+- Regex
+- NLTK
+- Parsing Twitter Text
 - Markov Chains
   - generators, list comprehensions
   - ... in which we build a Twitter Zombie Bot!
