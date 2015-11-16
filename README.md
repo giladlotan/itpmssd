@@ -82,6 +82,6 @@ For a sense of last year’s classes’ stories, see:
 
 
 By November 24, please send Gilad and danah: 
-1) A blurb about your final project direction, including what question or problem space you want to pursue, the analysis method you will be using
-2) A list of the team
-3) What kind of output you are hoping to produce
+- A blurb about your final project direction, including what question or problem space you want to pursue, the analysis method you will be using
+- A list of the team
+- What kind of output you are hoping to produce
