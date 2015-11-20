@@ -9,9 +9,8 @@ _Social Discussion_: Classification & Categories
 
 _Technical Discussion_
 - supervised vs. unsupervised learning
-  - a visual introduction to Machine Learning: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 - Bayes Theorem
-- example: Naive Bayes Classifier
+  - example: Naive Bayes Classifier
 
 _Introduce Final Project_
 
