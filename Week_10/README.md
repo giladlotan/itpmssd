@@ -17,6 +17,4 @@ _Introduce Final Project_
 #### Assignment
 - Start working on final projects (due 12/11)
 
-_Reading for next week_
-- TBD
 
