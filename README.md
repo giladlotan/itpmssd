@@ -29,6 +29,7 @@ In this class we will explore various computational and social science approache
 - [[11/20] (https://github.com/giladlotan/itpmssd/blob/master/Week_10/README.md)] 10. Classification, or Modern Day Magic
 - [11/27] ---> NO CLASS
 - [[12/4]  (https://github.com/giladlotan/itpmssd/blob/master/Week_11/README.md)] 11. Topic TBD | Unintended Consequences
+- [12/11] ---> NO CLASS
 - [[12/18] (https://github.com/giladlotan/itpmssd/blob/master/Week_12/README.md)] 12. Present Final Projects
 
 ---
@@ -54,3 +55,33 @@ In this class we will explore various computational and social science approache
   - Mid-term Bot Project: 25%
   - Final Project: 25%
   - _Note: Showing up more than 10 minutes late without prior notice is an unexcused absence. More than 2 unexcused absences results in automatic failure._
+
+---
+
+### Final Project
+
+You now have different tools in your belt to make sense of social data.  For the final project, we want you to leverage these to tell a story that matters.  Independently or in groups of up to four, we want you to mix qualitative and computational skills to analyze data and report what you learn in a written or visual form.  
+
+You may use data from any source - Instagram, Twitter, open data sets.  (For example, you may appreciate government data sets: https://www.data.gov/ )  The data that you choose should be large enough to require analysis using your machine.  Ideally, you will use data from multiple data sets as part of your analysis.  
+
+You should construct a question that can be asked of the data you’re working with.  This question should have value to someone other than you.  Keeping in mind an audience is an important part of this process because you want the story you’re telling to matter. 
+
+In order to provide broader perspective, you should also incorporate a qualitative method in what you’re doing.  For example, qualitatively analyze a sample of the data or interview people about the issue you’re trying to analyze. Get beyond the numbers to focus on why, how, and in what context.
+
+Your question may require network analysis, statistical methods, cluster analysis, or any other technique that you’ve learned in the class.  If there’s a new technique that you’d like to learn to help you ask your question, let Gilad and danah know by Thursday, November 19 so that they can plan accordingly for class.
+
+You do not need to visualize the data, but you do need to analyze the data to tell a story. You will be asked to write a Medium article that tells a story using data. For examples of stories that Gilad has written using data, see:
+- https://medium.com/i-data/israel-gaza-war-data-a54969aeb23e
+- http://giladlotan.com/2012/03/data-viz-kony2012-see-how-invisible-networks-helped-a-campaign-capture-the-worlds-attention/
+- https://medium.com/i-data/fake-friends-with-real-benefits-eec8c4693bd3
+
+For a sense of last year’s classes’ stories, see: 
+- https://medium.com/i-data/towards-a-homeostasis-of-continuous-7e4ddfc8b923
+- https://medium.com/i-data/finding-patterns-in-protests-6f6331c94897
+- https://medium.com/i-data/understanding-the-common-core-debate-using-twitter-data-57b5502acf7b
+
+
+By November 24, please send Gilad and danah: 
+- A blurb about your final project direction, including what question or problem space you want to pursue, the analysis method you will be using
+- A list of the team
+- What kind of output you are hoping to produce
