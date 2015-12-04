@@ -28,8 +28,8 @@ def igtagviz(tag):
     
 def get_ig_media(tag):
     
-    client_id = ''
-    client_secret = ''
+    client_id = '0db0c30814c14ac48a58c8e27a7b4a5a'
+    client_secret = '8681192578424d78aea183f1bf05f465'
 
     from instagram.client import InstagramAPI
 
@@ -45,7 +45,7 @@ def get_ig_media(tag):
 
 @app.route('/ig',methods=["GET"])
 def ig_slack_command():
-    webhook_url = ""
+    webhook_url = "https://hooks.slack.com/services/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"
 
     tag = request.args.get('text',None)
     print tag
